@@ -4,6 +4,12 @@ This repository contains a set of coding challenges to test and improve your pro
 
 ## Q#1: Sort Array in Descending Order
 Write a function that takes an array as input, sorts it, and returns the array in descending order. 
+**Example:**
+```javascript
+node Q#1.js
+output
+[ 9, 7, 6, 4, 3, 2 ]
+```
 ## Q#2: Check Palindrome
 Write a function that takes a string as input, checks if it is a palindrome, and returns the result.
 ## Q#3: Sum of Two Largest Numbers
